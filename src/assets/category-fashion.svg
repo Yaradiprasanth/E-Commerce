@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#db2777"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0f172a" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="600" height="400" fill="url(#bg)"/>
+  <circle cx="110" cy="120" r="72" fill="#fda4af" opacity="0.25"/>
+  <circle cx="520" cy="310" r="110" fill="#22d3ee" opacity="0.12"/>
+
+  <!-- outfit card -->
+  <g transform="translate(260,75)">
+    <rect x="0" y="0" width="300" height="290" rx="26" fill="url(#card)"/>
+    <rect x="34" y="36" width="232" height="218" rx="18" fill="#111827" opacity="0.55"/>
+
+    <!-- shirt -->
+    <path d="M120 30l20-18h40l20 18 45 25-35 55v160H75V110L40 55l45-25z" fill="#f8fafc" opacity="0.95"/>
+    <path d="M140 30l10-10h20l10 10v10h-40V30z" fill="#e0e7ff" opacity="0.7"/>
+    <path d="M150 110l30 25-10 38-20-16-20 16-10-38 30-25z" fill="#db2777" opacity="0.28"/>
+
+    <!-- accent labels -->
+    <rect x="60" y="210" width="140" height="26" rx="13" fill="#f59e0b" opacity="0.25"/>
+    <text x="130" y="228" text-anchor="middle" font-family="Segoe UI, Arial" font-size="14" font-weight="700" fill="#fef3c7" opacity="0.95">New</text>
+  </g>
+
+  <rect x="40" y="44" width="520" height="62" rx="18" fill="#0b1220" opacity="0.18"/>
+  <text x="52" y="98" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="900">Fashion</text>
+  <text x="52" y="132" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" opacity="0.9">Style refresh, premium picks</text>
+</svg>

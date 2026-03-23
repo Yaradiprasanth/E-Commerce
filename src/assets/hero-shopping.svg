@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1d4ed8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#bg)"/>
+  <circle cx="990" cy="120" r="120" fill="#f59e0b" opacity=".25"/>
+  <circle cx="860" cy="580" r="140" fill="#22d3ee" opacity=".2"/>
+  <text x="120" y="120" fill="#f8fafc" font-size="62" font-family="Segoe UI, Arial, sans-serif" font-weight="800">
+    Premium Marketplace
+  </text>
+  <g opacity=".9" fill="#ffffff">
+    <path d="M175 265c18-32 60-32 78 0l12 20 24 6-16 18 3 25-23-10-23 10 3-25-16-18 24-6 12-20z" opacity=".35"/>
+    <path d="M540 305h160l-20 120H560l-20-120z" opacity=".18"/>
+    <circle cx="610" cy="250" r="34" opacity=".22"/>
+    <circle cx="900" cy="430" r="22" opacity=".18"/>
+    <rect x="780" y="360" width="220" height="18" rx="9" opacity=".12"/>
+    <rect x="820" y="395" width="180" height="12" rx="6" opacity=".1"/>
+  </g>
+</svg>

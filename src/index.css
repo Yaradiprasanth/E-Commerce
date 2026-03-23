@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+body {
+  font-family: "Amazon Ember", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(180deg, #f4f7fb 0%, #f8fafc 30%, #eef2f7 100%);
+  color: #0f172a;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+* {
+  scroll-behavior: smooth;
+}

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7c2d12"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="420" rx="28" fill="url(#bg)"/>
+  <circle cx="770" cy="90" r="120" fill="#fff1f2" opacity="0.25"/>
+  <circle cx="720" cy="350" r="160" fill="#22d3ee" opacity="0.14"/>
+  <g transform="translate(520,70)">
+    <rect x="0" y="0" width="290" height="280" rx="24" fill="#111827" opacity="0.25"/>
+    <path d="M90 70c0-26 20-46 46-46h20c26 0 46 20 46 46v20h-26v-20c0-11-9-20-20-20h-20c-11 0-20 9-20 20v20H90v-20z" fill="#ffffff" opacity="0.6"/>
+    <path d="M52 120h186l-22 120H74l-22-120z" fill="#0f172a" opacity="0.85"/>
+    <path d="M74 120h150l-18 96H92l-18-96z" fill="#b45309" opacity="0.55"/>
+    <text x="100" y="205" font-size="62" font-family="Segoe UI, Arial" font-weight="800" fill="#fff1f2">-40%</text>
+  </g>
+  <g font-family="Segoe UI, Arial" font-weight="800" fill="#ffffff">
+    <text x="60" y="120" font-size="40" opacity="0.95">Limited-time deals</text>
+    <text x="60" y="175" font-size="56" letter-spacing="-1">Save big</text>
+    <text x="60" y="245" font-size="22" opacity="0.85">Curated picks across top categories</text>
+  </g>
+</svg>
+

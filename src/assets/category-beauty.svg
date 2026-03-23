@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#db2777"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="url(#g)"/>
+  <circle cx="205" cy="155" r="70" fill="#fff1f2" opacity="0.35"/>
+  <rect x="260" y="95" width="260" height="220" rx="18" fill="#0f172a" opacity="0.25"/>
+  <path d="M300 110c10 20 20 40 20 70 0 35-18 52-20 75-2-23-20-40-20-75 0-30 10-50 20-70z" fill="#fde68a" opacity="0.9"/>
+  <text x="38" y="55" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700">Beauty</text>
+</svg>

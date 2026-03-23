@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#111827"/>
+  <rect x="130" y="110" width="340" height="210" rx="18" fill="#0f172a" stroke="#22c55e" stroke-width="6" opacity="0.95"/>
+  <path d="M170 150h260" stroke="#e5e7eb" stroke-width="8" opacity="0.6"/>
+  <circle cx="230" cy="255" r="20" fill="#fde68a" opacity="0.95"/>
+  <circle cx="300" cy="220" r="18" fill="#86efac" opacity="0.95"/>
+  <circle cx="370" cy="255" r="20" fill="#93c5fd" opacity="0.95"/>
+  <text x="42" y="55" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700">Groceries</text>
+</svg>
